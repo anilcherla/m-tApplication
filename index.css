@@ -1,0 +1,35 @@
+.box{
+	border:1px solid black;
+	width:80%;
+	height:100%;
+}
+.box1{
+	border:1px;
+	background-color: #006400;
+	height:30px;
+	width: 100%;
+}
+
+.box2{
+	border:2px dotted black;
+	background-color: #cce0cc;
+	height:30px;
+	width:100%;
+}
+.p{
+	text-align: right;
+	display: inline;
+	color:white;
+	padding-left: 70%;
+}
+.hr{
+	height:0.5px;
+	border:none;
+	color:#333;
+	background-color:#333;
+}
+.percent{
+	position:relative;
+	float:left;
+	padding-right: 20px;
+}
